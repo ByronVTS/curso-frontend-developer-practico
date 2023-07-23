@@ -66,27 +66,27 @@ const productList = []
 productList.push({
     name: "Pochita 1",
     price: "1 millon",
-    image: "../img/Pochita.PNG.webp"
+    image: "./img/Pochita.PNG.webp"
 })
 productList.push({
     name: "Pochita",
     price: "1 millon",
-    image: "../img/Pochita.PNG.webp"
+    image: "./img/Pochita.PNG.webp"
 })
 productList.push({
     name: "Pochita",
     price: "1 millon",
-    image: "../img/Pochita.PNG.webp"
+    image: "./img/Pochita.PNG.webp"
 })
 productList.push({
     name: "Pochita",
     price: "1 millon",
-    image: "../img/Pochita.PNG.webp"
+    image: "./img/Pochita.PNG.webp"
 })
 productList.push({
     name: "Pochita",
     price: "1 millon",
-    image: "../img/Pochita.PNG.webp"
+    image: "./img/Pochita.PNG.webp"
 })
 
 function renderProducts (arr){
